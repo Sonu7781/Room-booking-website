@@ -1,1 +1,1 @@
-This is a room booking website you can seen hotel deatai , add hotel to provide service,it has login, logout, singin functgion,you can also post or delete comment on particullar listing and ratting in star form.
+This is a room booking website you can seen hotel deatail , add hotel to provide service,it has login, logout, singin function,you can also post or delete comment on particullar listing and ratting in star form.
